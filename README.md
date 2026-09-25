@@ -24,4 +24,4 @@ A simple registration form built using HTML, CSS, JavaScript, and Supabase.
 3. Open `index.html` in a browser.
 
 ## Author
-
+Bindu
